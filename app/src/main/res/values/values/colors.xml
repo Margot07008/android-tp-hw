@@ -5,6 +5,4 @@
 
     <color name="colorEvenNumber">#D13030</color>
     <color name="colorOddNumber">#3C3CDB</color>
-    <color name="colorBtnBg">#6E0096</color>
-    <color name="colorBtnText">#FFFFFF</color>
 </resources>
